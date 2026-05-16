@@ -61,3 +61,12 @@ To overcome the hardware limitations of embedded systems, Mubser utilizes a robu
 3. Run the server script:
    ```bash
    python server.py
+   ```
+
+### 2. Client-Side (Raspberry Pi)
+1. Ensure the Raspberry Pi is on the same local network (e.g., Mobile Hotspot) as the server.
+2. Update the `SERVER_IP` variable in `client.py` to match the Server's IP address.
+3. Run the client script:
+   ```bash
+   python client.py
+   ```
