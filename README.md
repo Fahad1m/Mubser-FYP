@@ -9,6 +9,11 @@
 
 ---
 
+## 🎓 Project Overview
+This project was developed and submitted as a **Final Year Project** to fulfill graduation requirements. It showcases the integration of computer vision and embedded systems to create an impactful assistive technology solution.
+
+---
+
 ## ✨ Key Features
 * **🚧 Real-Time Obstacle Detection:** Custom YOLOv8 model trained to detect navigational hazards like potholes, puddles, and roadblocks.
 * **🚗 General Object Detection:** Identifies everyday objects (e.g., cars, pedestrians, chairs) using a secondary YOLO model.
@@ -36,18 +41,15 @@ To overcome the hardware limitations of embedded systems, Mubser utilizes a robu
 
 ---
 
-## 👥 Meet the Team
+## 👥 Team Members
 
-This project was developed as a graduation project by a dedicated team of engineers/developers:
-
-| Name | Role / Contribution | GitHub |
-| :--- | :--- | :--- |
-| **[Your Name]** | AI & System Architecture | [@YourGitHub](https://github.com/YourGitHub) |
-| **[Colleague 1 Name]** | Object Detection & Datasets | [@Colleague1](https://github.com/Colleague1) |
-| **[Colleague 2 Name]** | Raspberry Pi & Hardware | [@Colleague2](https://github.com/Colleague2) |
-| **[Colleague 3 Name]** | OCR & Audio Integration | [@Colleague3](https://github.com/Colleague3) |
-
-*(Note: Roles can be adjusted based on actual contributions).*
+| Name | GitHub |
+| :--- | :--- |
+| **[Fahad Al-Mutairi]** | [@Fahad1m](https://github.com/Fahad1m) |
+| **[Mohammad Al-Neghimshi]** | [@muhammed-coder](https://github.com/muhammed-coder) |
+| **[Waleed Al-Tuwaijri]** | [@WaleedTw](https://github.com/WaleedTw) |
+| **[Waleed Al-Suwayyid]** | [@Lido-79](https://github.com/Lido-79) |
+| **[Fahad Al-Fawzan]** | [@Fhod97](https://github.com/Fhod97) |
 
 ---
 
