@@ -57,7 +57,7 @@ To overcome the hardware limitations of embedded systems, Mubser utilizes a robu
 
 ### 1. Server-Side (PC/Laptop)
 1. Install dependencies: `pip install ultralytics opencv-python easyocr deep-translator gTTS`
-2. Place `best.pt` and `yolov8s.pt` in the root directory.
+2. Place `obstacles.pt` and `yolov8s.pt` in the root directory.
 3. Run the server script:
    ```bash
    python server.py
