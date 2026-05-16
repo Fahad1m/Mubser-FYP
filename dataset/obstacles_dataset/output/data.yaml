@@ -1,0 +1,29 @@
+path: E:/GIt/Mubser/venv/datasets/newtest2/output
+train: images/train
+val: images/val
+test: images/test
+
+nc: 22
+names:
+  0: right turn
+  1: left turn
+  2: puddle
+  3: street vendor
+  4: obstacle
+  5: bad road
+  6: garbage bin
+  7: chair
+  8: pothole
+  9: car
+  10: motorcycle
+  11: pedestrian
+  12: fence
+  13: gate barrier
+  14: roadblock
+  15: door
+  16: tree
+  17: plant pot
+  18: drain
+  19: stair
+  20: pole
+  21: zebra cross
