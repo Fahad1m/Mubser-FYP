@@ -1,4 +1,4 @@
-# 👁️ Mubser (مبصر) - Vision System for the Visually Impaired
+#  Mubser (مبصر) - Vision System for the Visually Impaired
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue.svg)
 ![YOLOv8](https://img.shields.io/badge/YOLO-v8-yellow.svg)
@@ -9,21 +9,21 @@
 
 ---
 
-## 🎓 Project Overview
+##  Project Overview
 This project was developed and submitted as a **Final Year Project** to fulfill graduation requirements. It showcases the integration of computer vision and embedded systems to create an impactful assistive technology solution.
 
 ---
 
-## ✨ Key Features
-* **🚧 Real-Time Obstacle Detection:** Custom YOLOv8 model trained to detect navigational hazards like potholes, puddles, and roadblocks.
-* **🚗 General Object Detection:** Identifies everyday objects (e.g., cars, pedestrians, chairs) using a secondary YOLO model.
-* **📝 Optical Character Recognition (OCR):** Extracts text from the environment using EasyOCR.
-* **🔊 Arabic Audio Feedback:** Converts warnings and extracted text into natural Arabic speech using `gTTS`.
-* **⚡ Client-Server Architecture:** Offloads heavy AI computation from the edge device to a local server for zero-latency processing.
+##  Key Features
+* ** Real-Time Obstacle Detection:** Custom YOLOv8 model trained to detect navigational hazards like potholes, puddles, and roadblocks.
+* ** General Object Detection:** Identifies everyday objects (e.g., cars, pedestrians, chairs) using a secondary YOLO model.
+* ** Optical Character Recognition (OCR):** Extracts text from the environment using EasyOCR.
+* ** Arabic Audio Feedback:** Converts warnings and extracted text into natural Arabic speech using `gTTS`.
+* ** Client-Server Architecture:** Offloads heavy AI computation from the edge device to a local server for zero-latency processing.
 
 ---
 
-## 🏗️ System Architecture
+##  System Architecture
 
 To overcome the hardware limitations of embedded systems, Mubser utilizes a robust **Client-Server Architecture** via TCP Sockets:
 
@@ -32,7 +32,7 @@ To overcome the hardware limitations of embedded systems, Mubser utilizes a robu
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 * **Machine Learning:** Ultralytics YOLOv8
 * **Computer Vision:** OpenCV
 * **OCR & Translation:** EasyOCR, Deep Translator
@@ -41,7 +41,7 @@ To overcome the hardware limitations of embedded systems, Mubser utilizes a robu
 
 ---
 
-## 👥 Team Members
+##  Team Members
 
 | Name | GitHub |
 | :--- | :--- |
@@ -53,7 +53,7 @@ To overcome the hardware limitations of embedded systems, Mubser utilizes a robu
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 ### 1. Server-Side (PC/Laptop)
 1. Install dependencies: `pip install ultralytics opencv-python easyocr deep-translator gTTS`
